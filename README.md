@@ -1,2 +1,2 @@
-# BattleShip
+# Battle Ship
 Морской бой
